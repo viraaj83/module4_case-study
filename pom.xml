@@ -6,8 +6,6 @@
 
 	<version>0.0.1-SNAPSHOT-master</version>
 
-	
-
 	<packaging>war</packaging>
 	<name>Hello World Java EE</name>
 	<description>Learn Java JSP and Servlet</description>
